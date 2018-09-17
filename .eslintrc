@@ -1,0 +1,12 @@
+{
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "extends": "airbnb-base",
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "semi": 2
+  }
+}
