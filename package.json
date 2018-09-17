@@ -16,7 +16,6 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "boom": "^7.2.0",
-    "compromise": "^11.6.0",
     "dotenv": "^5.0.1",
     "googleapis": "^33.0.0",
     "hapi": "^17.3.1",
@@ -25,8 +24,6 @@
     "moment": "^2.21.0",
     "mongodb": "^3.0.7",
     "mongoose": "^5.0.15",
-    "node-gmail-api": "^0.6.1",
-    "node-google-calendar": "^1.1.1",
     "node-schedule": "^1.3.0",
     "twilio": "^3.14.0",
     "words-to-numbers": "^1.5.1"
