@@ -1,0 +1,19 @@
+{
+  "name": "boynblat-assistant",
+  "version": 1,
+  "alias": "boynblat.stephenboynton.com",
+  "engines": {
+    "node": "10.12.0"
+  },
+  "env": {
+    "CLIENT_ID": "@CLIENT_ID",
+    "ID_KEY": "@ID_KEY",
+    "SERVICE_EMAIL": "@SERVICE_EMAIL",
+    "TWILIO_ACCOUNT": "@TWILIO_ACCOUNT",
+    "TWILIO_AUTH": "@TWILIO_AUTH",
+    "TWILIO_PHONE": "@TWILIO_PHONE",
+    "STEPHEN": "@STEPHEN",
+    "ERIN": "@ERIN",
+    "DATABASE_URI": "@DATABASE_URI"
+  }
+}

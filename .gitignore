@@ -1,4 +1,4 @@
 lib/config
 /node_modules
-now.json
 .env
+now-secrets.json
