@@ -25,6 +25,7 @@
     "mongodb": "^3.2.3",
     "mongoose": "^5.4.22",
     "node-schedule": "^1.3.2",
+    "now-env": "^3.1.0",
     "twilio": "^3.30.0",
     "words-to-numbers": "^1.5.1"
   },
