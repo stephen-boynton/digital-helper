@@ -6,14 +6,14 @@
     "node": "10.12.0"
   },
   "env": {
-    "CLIENT_ID": "@CLIENT_ID",
-    "ID_KEY": "@ID_KEY",
-    "SERVICE_EMAIL": "@SERVICE_EMAIL",
-    "TWILIO_ACCOUNT": "@TWILIO_ACCOUNT",
-    "TWILIO_AUTH": "@TWILIO_AUTH",
-    "TWILIO_PHONE": "@TWILIO_PHONE",
-    "STEPHEN": "@STEPHEN",
-    "ERIN": "@ERIN",
-    "DATABASE_URI": "@DATABASE_URI"
+    "CLIENT_ID": "@client_id",
+    "ID_KEY": "@id_key",
+    "SERVICE_EMAIL": "@service_email",
+    "TWILIO_ACCOUNT": "@twilio_account",
+    "TWILIO_AUTH": "@twilio_auth",
+    "TWILIO_PHONE": "@twilio_phone",
+    "STEPHEN": "@stephen",
+    "ERIN": "@erin",
+    "DATABASE_URI": "@database_uri"
   }
 }
